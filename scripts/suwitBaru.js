@@ -11,7 +11,7 @@ function getHasil(com, play) {
     if (play == com) return "SERI!";
     if (play == "gajah") return com == "orang" ? "MENANG!" : "KALAH!";
     if (play == "orang") return com == "gajah" ? "KALAH!" : "MENANG!";
-    if (play == "semut") return com == "orang" ? "KALAH" : "MENANG";
+    if (play == "semut") return com == "orang" ? "KALAH!" : "MENANG!";
 }
 
 //* Interaktif
