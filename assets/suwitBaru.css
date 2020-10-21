@@ -178,6 +178,15 @@ h1 {
     border-radius: 40px 40px 0 0;
 }
 
+#teks {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px 0;
+    text-transform: uppercase;
+    color: #e7e7e7;
+}
+
 .area-player {
     width: 560px;
     height: 250px;
